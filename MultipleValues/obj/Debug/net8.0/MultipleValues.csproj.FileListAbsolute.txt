@@ -1,0 +1,14 @@
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\bin\Debug\net8.0\MultipleValues.exe
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\bin\Debug\net8.0\MultipleValues.deps.json
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\bin\Debug\net8.0\MultipleValues.runtimeconfig.json
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\bin\Debug\net8.0\MultipleValues.dll
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\bin\Debug\net8.0\MultipleValues.pdb
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.AssemblyInfoInputs.cache
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.AssemblyInfo.cs
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.csproj.CoreCompileInputs.cache
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.dll
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\refint\MultipleValues.dll
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.pdb
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\MultipleValues.genruntimeconfig.cache
+C:\Users\khyati.rani\source\repos\MultipleValues\MultipleValues\obj\Debug\net8.0\ref\MultipleValues.dll
